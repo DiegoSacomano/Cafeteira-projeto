@@ -8,3 +8,4 @@
 <img src="https://raw.githubusercontent.com/DiegoSacomano/Cafeteira-projeto/5b1fe70089ccf8ac251a32e4dd6dcb9092524951/assets/img-descktop.png" alt="imagem-versao-descktop"/>
 <br/>
 <h4>Versão Mobile</h4>
+<img src="https://raw.githubusercontent.com/DiegoSacomano/Cafeteira-projeto/5b1fe70089ccf8ac251a32e4dd6dcb9092524951/assets/img-mobile.png" alt="imagem-mobile"/>
